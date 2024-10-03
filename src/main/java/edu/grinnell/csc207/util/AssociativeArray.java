@@ -2,10 +2,12 @@ package edu.grinnell.csc207.util;
 
 import static java.lang.reflect.Array.newInstance;
 
+
 /**
  * A basic implementation of Associative Arrays with keys of type K and values of type V.
  * Associative Arrays store key/value pairs and permit you to look up values by key.
- *
+ * @author Samuel A. Rebelsky
+ * @author Sunjae Kim
  * @param <K> the key type
  * @param <V> the value type
  */
